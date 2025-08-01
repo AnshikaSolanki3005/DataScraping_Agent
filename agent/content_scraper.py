@@ -1,7 +1,9 @@
 # agents/content_scraper.py
 
 from typing import Dict, Any
-from agents.topic_manager import TopicManager
+from agent.topic_manager import TopicManager
+from agent.multimodal_extractor import MultimodalExtractor
+from pipeline.structure_content import ContentStructurer
 import json
 from pathlib import Path
 import time
