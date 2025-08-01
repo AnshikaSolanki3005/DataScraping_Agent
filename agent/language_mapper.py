@@ -1,5 +1,3 @@
-# agents/language_mapper.py
-
 from pygments.lexers import guess_lexer
 from pygments.util import ClassNotFound
 
@@ -48,3 +46,11 @@ class LanguageMapper:
         lang_name = self.detect_language(code)
         file_type = self.map_language_to_filetype(lang_name)
         return {"language": lang_name, "file_type": file_type}
+
+
+def detect_language_and_translate(code: str) -> dict:
+    """
+    Standalone wrapper function to detect language and file type.
+    """
+    mapper = LanguageMapper()
+    return mapper.get_language_info(code)
