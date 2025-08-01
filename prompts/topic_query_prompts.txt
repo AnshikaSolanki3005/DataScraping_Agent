@@ -1,0 +1,45 @@
+__DEFAULT__::Act as a domain expert. Explain {topic} in full depth including definition, history, key concepts, diagrams (or image descriptions), subtopics, real-world applications, notable case studies, mathematical formulations, and latest trends/tools. Make it structured and detailed as if writing a textbook chapter.
+
+algorithms::Act as a CS professor. Explain {topic} with definition, core algorithm steps, pseudocode, time and space complexity analysis, flowcharts, key variants, and real-world problem-solving examples.
+
+ar_vr::Explain {topic} in the context of AR/VR including sensors, tracking, rendering pipeline, tech stacks (Unity, Unreal), immersive UX examples, device types, and challenges in implementation.
+
+cloud::Explain {topic} in cloud computing with service models (IaaS, PaaS, SaaS), deployment models, cloud architecture (containers, Kubernetes), use-cases, scalability concerns, and major providers.
+
+compiler_design::Explain {topic} including compiler phases (lexical, syntax, semantic), finite automata relevance, parsing techniques (LL/LR), optimization techniques, and tools like Lex/Yacc.
+
+computation_theory::Describe {topic} with formal models (Turing machines, DFAs/NFAs), decidability/undecidability, complexity classes (P, NP, etc.), and mathematical foundations with examples.
+
+computer_architecture::Explain {topic} with CPU structure, memory hierarchy, instruction pipelining, buses, caches, RISC vs CISC, performance metrics, and architectural diagrams.
+
+computer_networks::Explain {topic} including OSI/TCP layers, protocols (IP, TCP, HTTP, etc.), packet transmission, routing, congestion control, security (SSL, firewalls), and networking devices.
+
+cybersecurity::Explain {topic} with threat models, attack types (DoS, XSS, SQLi), cryptographic primitives (RSA, AES), authentication, security frameworks (Zero Trust, NIST), and case studies.
+
+data_eng_big_data::Describe {topic} with big data characteristics (3Vs), data pipelines (batch/streaming), architectures (Lambda, Kappa), ETL tools (Apache NiFi, Airflow), and distributed systems (Hadoop, Spark).
+
+data_structures::Explain {topic} with operations, visual representations, time/space complexity, use-cases, implementations in Python/C++, and differences with similar structures.
+
+database::Explain {topic} with relational and NoSQL types, ER modeling, normalization, ACID properties, indexing, SQL vs MongoDB, and optimization strategies.
+
+embedded_systems_iot::Explain {topic} with microcontroller basics, real-time systems, sensor networks, protocols (MQTT, CoAP), hardware/software interface, and IoT platforms.
+
+human_computer_interaction::Explain {topic} with usability heuristics, UI/UX principles, user-centered design, accessibility, cognitive modeling, and evaluation techniques.
+
+mathematics::Explain {topic} with theory, derivations, formulas, proofs, visualizations, applications in CS, and relationships with other mathematical concepts.
+
+numerical_computing::Explain {topic} with floating-point arithmetic, approximation algorithms, error analysis, numerical linear algebra, and practical applications (e.g., simulations, ML).
+
+operating_system::Explain {topic} with process/thread management, memory models, file systems, scheduling algorithms, deadlock handling, and synchronization.
+
+parallel_distributed_systems::Explain {topic} with parallel algorithms, concurrency, consistency models (CAP), fault tolerance, MapReduce, and distributed infrastructure (Hadoop, Kafka).
+
+programming_languages::Describe {topic} with syntax/semantics, paradigms (OOP, FP, logic), memory management, compilers vs interpreters, and language-specific quirks (Python, Rust, etc.).
+
+quantum_computing::Explain {topic} with quantum principles (superposition, entanglement), gates (Hadamard, CNOT), algorithms (Shor’s, Grover’s), math (linear algebra), and hardware (Qiskit, IBMQ).
+
+robotics::Explain {topic} with perception, actuation, control, path planning, kinematics/dynamics, SLAM, sensors (LIDAR, IMU), ROS ecosystem, and use-cases in industries.
+
+software_eng_devops::Describe {topic} with SDLC phases, software design patterns, Agile/Scrum, CI/CD pipelines, version control (Git), testing, monitoring tools (Jenkins, Prometheus), and team workflows.
+
+system_design::Explain {topic} with use-case analysis, scalability, availability, load balancing, database sharding, microservices, caching (Redis/CDN), and high-level architecture diagrams.
