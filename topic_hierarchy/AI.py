@@ -1,4 +1,3 @@
-now does it include everything
 ARTIFICIAL_INTELLIGENCE = {
     'Foundations': [
         'History and Philosophy of AI',
