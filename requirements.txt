@@ -1,0 +1,52 @@
+# Core scraping libraries
+requests
+beautifulsoup4
+html5lib
+selenium
+fake-useragent
+
+# Language detection and translation
+langdetect
+googletrans==4.0.0rc1
+deep-translator
+
+# Content cleaning and NLP
+nltk
+spacy
+textblob
+regex
+
+# Multimodal processing
+pdfplumber
+pytesseract
+Pillow
+matplotlib
+markdownify
+html2text
+
+# File I/O and structured output
+markdown
+PyYAML
+jsonlines
+
+# Utility
+tqdm
+rich
+python-slugify
+
+# Optional headless browser automation
+playwright
+# playwright install
+
+# Optional: LLM-based extractors (if used)
+openai
+transformers
+sentence-transformers
+huggingface-hub
+
+# Logging and debugging
+loguru
+
+# Compatibility
+python-dotenv
+
