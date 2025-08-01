@@ -1,0 +1,198 @@
+COMPUTER_NETWORKS = {
+    # ========== Fundamental Concepts ==========
+    'Network Fundamentals': [
+        'Network Topologies',
+        '  - Star Topology',
+        '  - Bus Topology',
+        '  - Ring Topology',
+        '  - Mesh Topology',
+        '  - Hybrid Topology',
+        'Network Types',
+        '  - LAN (Local Area Network)',
+        '  - WAN (Wide Area Network)',
+        '  - MAN (Metropolitan Area Network)',
+        '  - PAN (Personal Area Network)',
+        '  - SAN (Storage Area Network)',
+        'OSI Model',
+        '  - Physical Layer',
+        '  - Data Link Layer',
+        '  - Network Layer',
+        '  - Transport Layer',
+        '  - Session Layer',
+        '  - Presentation Layer',
+        '  - Application Layer',
+        'TCP/IP Model',
+        '  - Network Interface Layer',
+        '  - Internet Layer',
+        '  - Transport Layer',
+        '  - Application Layer',
+        'Protocols and Standards',
+        'Encapsulation and Decapsulation'
+    ],
+
+    # ========== Network Hardware ==========
+    'Network Devices': [
+        'Routers',
+        'Switches',
+        '  - Layer 2 Switches',
+        '  - Layer 3 Switches',
+        '  - Managed vs Unmanaged',
+        'Hubs',
+        'Bridges',
+        'Gateways',
+        'Modems',
+        'Access Points',
+        'Firewalls',
+        'Load Balancers',
+        'Network Interface Cards (NIC)',
+        'Repeaters',
+        'Media Converters'
+    ],
+
+    # ========== Network Protocols ==========
+    'Network Protocols': [
+        'TCP (Transmission Control Protocol)',
+        'UDP (User Datagram Protocol)',
+        'IP (Internet Protocol)',
+        '  - IPv4',
+        '  - IPv6',
+        'ICMP (Internet Control Message Protocol)',
+        'ARP (Address Resolution Protocol)',
+        'RARP (Reverse ARP)',
+        'DHCP (Dynamic Host Configuration Protocol)',
+        'DNS (Domain Name System)',
+        'FTP (File Transfer Protocol)',
+        'HTTP/HTTPS',
+        'SMTP (Simple Mail Transfer Protocol)',
+        'POP3/IMAP',
+        'SSH (Secure Shell)',
+        'Telnet',
+        'SNMP (Simple Network Management Protocol)',
+        'BGP (Border Gateway Protocol)',
+        'OSPF (Open Shortest Path First)',
+        'EIGRP (Enhanced Interior Gateway Routing Protocol)'
+    ],
+
+    # ========== Network Technologies ==========
+    'Network Technologies': [
+        'Ethernet',
+        '  - Fast Ethernet',
+        '  - Gigabit Ethernet',
+        '  - 10 Gigabit Ethernet',
+        'Wi-Fi',
+        '  - 802.11 Standards',
+        '  - Wi-Fi Security (WEP, WPA, WPA2, WPA3)',
+        'Bluetooth',
+        'Zigbee',
+        'Cellular Networks',
+        '  - 3G/4G/5G',
+        '  - LTE',
+        'Optical Networks',
+        '  - SONET/SDH',
+        '  - DWDM',
+        'MPLS (Multiprotocol Label Switching)',
+        'VPN (Virtual Private Network)',
+        '  - Site-to-Site VPN',
+        '  - Remote Access VPN',
+        '  - SSL/TLS VPN',
+        'SDN (Software Defined Networking)',
+        'NFV (Network Function Virtualization)'
+    ],
+
+    # ========== Network Services ==========
+    'Network Services': [
+        'Web Services',
+        'Email Services',
+        'File Sharing',
+        'Print Services',
+        'Directory Services',
+        '  - Active Directory',
+        '  - LDAP',
+        'VoIP (Voice over IP)',
+        'Video Conferencing',
+        'Cloud Services',
+        '  - IaaS',
+        '  - PaaS',
+        '  - SaaS',
+        'CDN (Content Delivery Network)',
+        'Proxy Services',
+        'NAT (Network Address Translation)'
+    ],
+
+    # ========== Network Security ==========
+    'Network Security': [
+        'Cryptography',
+        '  - Symmetric Encryption',
+        '  - Asymmetric Encryption',
+        '  - Hash Functions',
+        'Authentication',
+        '  - PKI (Public Key Infrastructure)',
+        '  - Digital Certificates',
+        '  - Multi-factor Authentication',
+        'Firewalls',
+        '  - Packet Filtering',
+        '  - Stateful Inspection',
+        '  - Proxy Firewalls',
+        'IDS/IPS',
+        '  - Network-based IDS',
+        '  - Host-based IDS',
+        '  - Signature-based Detection',
+        '  - Anomaly-based Detection',
+        'Network Hardening',
+        'Security Protocols',
+        '  - SSL/TLS',
+        '  - IPsec',
+        '  - SSH',
+        'Wireless Security',
+        'Zero Trust Architecture'
+    ],
+
+    # ========== Network Management ==========
+    'Network Management': [
+        'Network Monitoring',
+        '  - SNMP',
+        '  - NetFlow',
+        '  - Syslog',
+        'Performance Monitoring',
+        'Fault Management',
+        'Configuration Management',
+        'QoS (Quality of Service)',
+        'Traffic Shaping',
+        'Bandwidth Management',
+        'Patch Management',
+        'Asset Management',
+        'Network Documentation'
+    ],
+
+    # ========== Emerging Technologies ==========
+    'Emerging Technologies': [
+        '5G Networks',
+        'IoT Networking',
+        'Edge Computing',
+        'Network Slicing',
+        'Intent-Based Networking',
+        'AI in Networking',
+        'Blockchain in Networking',
+        'Quantum Networking',
+        '6G Research',
+        'Satellite Internet Networks',
+        'Mesh Networking'
+    ],
+
+    # ========== Specialized Networks ==========
+    'Specialized Networks': [
+        'Industrial Networks',
+        '  - SCADA Systems',
+        '  - Fieldbus Networks',
+        'Automotive Networks',
+        '  - CAN Bus',
+        '  - Automotive Ethernet',
+        'Avionics Networks',
+        '  - ARINC 429',
+        '  - AFDX',
+        'Medical Networks',
+        '  - Medical IoT',
+        '  - DICOM Networks',
+        'Smart Grid Networks'
+    ]
+}
